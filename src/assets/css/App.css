@@ -1,1 +1,6 @@
-/* No CSS *//*# sourceMappingURL=App.css.map */
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css");
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js");
+.container {
+  border: thin red solid;
+}
+/*# sourceMappingURL=App.css.map */
