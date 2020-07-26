@@ -1,6 +1,9 @@
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css");
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js");
-.container {
-  border: thin red solid;
+.btn-pink {
+  background-color: hotpink;
+  color: white;
+  -webkit-transition: ease 0.5s all;
+  transition: ease 0.5s all;
 }
 /*# sourceMappingURL=App.css.map */
