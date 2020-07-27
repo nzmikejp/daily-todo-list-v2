@@ -1,8 +1,29 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
 
-.btn-pink {
-    background-color: hotpink;
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-weight: 200;
+}
+
+
+header {
+    min-height: 4em;
+    background-color: #757575;
+    text-align: center;
     color: white;
-    transition: ease 0.5s all;
+    
+    h1 {
+        text-transform: uppercase;
+        margin: 0;
+        line-height: 2em;
+    }
+
+    span {
+        font-weight: 700;
+    }
 }
